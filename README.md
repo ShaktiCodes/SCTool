@@ -120,7 +120,7 @@ Feel free to fork this repo, enhance it, and make a PR! Suggestions for features
 
 ## 📃 License
 
-MIT License © [Your Name](https://github.com/shakticodes)
+MIT License © (https://github.com/shakticodes)
 
 ---
 
